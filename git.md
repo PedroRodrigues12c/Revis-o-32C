@@ -7,7 +7,7 @@ git init
 
 # Sempre que uma atualização for feita no projeto
 git add .
-git commit -m "mensagem para o commit"
+git commit -m "Primeiro commit"
 git push
 
 # Sempre que for baixar o projeto em outro computador
